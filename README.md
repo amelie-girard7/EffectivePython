@@ -1,5 +1,5 @@
 # Effective Python
-This repository is a review of the book Effective Python second edition. I will be using  Python 3.11.4 despite that the book was based on python 3.8.0 
+This repository is a review of the book Effective Python second edition. I will use Python 3.11.4.
 ## Table of Contents
 - [Chapter 1: Pythonic Thinking](src/Pythonic_Thinking.ipynb)
 - [Chapter 2: Lists and Dictionaries](src/Lists_and_Dictionaries.ipynb)
